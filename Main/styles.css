@@ -1,0 +1,10 @@
+body {
+    background-color: darkcyan;
+    align-content: center;
+}
+h1{
+    text-align: center;
+    size: 69pt;
+    font: "Arial Narrow";
+    background-color: blueviolet;
+}

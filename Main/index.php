@@ -40,12 +40,11 @@
 
     if ($result->num_rows > 0){
         echo implode(" ",$result->fetch_assoc());
-        
     }
-
-
     ?>
-
+<br >
+<br >
+<br >
 
     <img alt="See on pilt." src="http://enos.itcollege.ee/~rtammets/pildid/cup.jpg" height="420" width="420">
 

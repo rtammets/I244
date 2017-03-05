@@ -1,0 +1,39 @@
+#roh{
+    color:green;
+}
+
+#underline{
+    text-decoration:underline;
+}
+
+#tumertaust{
+    background-color:#bcf5a6;
+}
+
+#dubfont{
+    font-size:200%;
+}
+
+#monospace{
+    font-family:monospace;
+}
+
+#paksjoonkollanetaust{
+    border: 15px solid black;
+    background-color:yellow;
+}
+
+#roundnurgadkatkendjoon{
+    border: 15px dashed black;
+    border-radius: 3px;
+}
+
+#kaldkirikeskjoond{
+    font-style:italic;
+    text-align:center;
+
+}
+
+#kursorimuut{
+    cursor:crosshair;
+}

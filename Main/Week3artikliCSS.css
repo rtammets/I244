@@ -1,0 +1,28 @@
+h5{
+    width 200px;
+    height 200px;
+    border-width:2;
+    border-color:blue;
+    font-size: 15px;
+    font-weight: 10;
+    border-radius: 4;
+    border: 15px dashed black;
+}
+
+h6{
+    border: 15px dashed black;
+    color: red;
+    text-align: right;
+    cursor:crosshair;
+    background-color:green;
+    text-deoration: strikethrough;
+    font-family: Arial;
+    border-top-width: 2px;
+}
+
+h1:hover{
+color:yellow;
+}
+h2:hover{
+    font-size: 200px;
+}
